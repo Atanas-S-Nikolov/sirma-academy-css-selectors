@@ -1,0 +1,7 @@
+div p {
+    font-size: 14px;
+}
+
+div > p {
+    font-size: 32px;
+}

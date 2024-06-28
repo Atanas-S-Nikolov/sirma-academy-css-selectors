@@ -1,0 +1,8 @@
+input[type="text"] {
+    border: 2px dotted purple;
+}
+
+input[type="submit"] {
+    border: none;
+    background-color: transparent;
+}
