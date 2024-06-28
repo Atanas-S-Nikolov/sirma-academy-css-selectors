@@ -1,0 +1,5 @@
+.parent > p::after {
+    content: "<== This paragraph is selected";
+    color: red;
+    margin-left: 1rem;
+}
